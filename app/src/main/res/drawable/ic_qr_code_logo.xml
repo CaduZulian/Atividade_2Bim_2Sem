@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Quadros do QR Code em Branco (#FFFFFF) -->
+    <!-- Top Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,12 h28 v28 h-28 z M20,20 v12 h12 v-12 z" />
+    <path
+        android:fillColor="#16A085"
+        android:pathData="M24,24 h4 v4 h-4 z" />
+
+    <!-- Top Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,12 h28 v28 h-28 z M64,20 v12 h12 v-12 z" />
+    <path
+        android:fillColor="#16A085"
+        android:pathData="M68,24 h4 v4 h-4 z" />
+
+    <!-- Bottom Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,56 h28 v28 h-28 z M20,64 v12 h12 v-12 z" />
+    <path
+        android:fillColor="#16A085"
+        android:pathData="M24,68 h4 v4 h-4 z" />
+
+    <!-- Lupa de Busca em Verde Esmeralda (#16A085) -->
+    <path
+        android:fillColor="#16A085"
+        android:pathData="M68,52 c-8.83,0 -16,7.17 -16,16 c0,3.6 1.19,6.92 3.2,9.6L44,89.2l5.6,5.6l11.6,-11.2c2.68,2.01 6,3.2 9.6,3.2c8.83,0 16,-7.17 16,-16C84,59.17 76.83,52 68,52z M68,78 c-5.52,0 -10,-4.48 -10,-10s4.48,-10 10,-10s10,4.48 10,10S73.52,78 68,78z" />
+</vector>

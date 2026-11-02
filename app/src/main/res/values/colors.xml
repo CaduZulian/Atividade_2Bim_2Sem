@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de Cores Obrigatória - Consulta Fácil -->
+    <color name="primary_petroleo">#173B57</color>
+    <color name="secondary_blue">#245B78</color>
+    <color name="emerald_green">#16A085</color>
+    <color name="emerald_light">#DDF4EC</color>
+    <color name="bg_main">#F1F7F5</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="text_primary">#263746</color>
+    <color name="text_secondary">#718096</color>
+    <color name="border_divider">#E2EAE7</color>
+    <color name="error_red">#D9534F</color>
+
+    <!-- Cores Padrão -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
